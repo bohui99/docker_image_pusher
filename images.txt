@@ -1,8 +1,10 @@
 alpine
 zerotier/zerotier:latest
+--platform=linux/arm/v7 zerotier/zerotier:latest
 python:alpine3.19
 kasmweb/nginx:1.25.3
 portainer/portainer
+--platform=linux/arm/v7 portainer/portainer
 redroid/redroid:11.0.0-latest
 gdy666/lucky
 budtmo/docker-android:emulator_11.0
@@ -11,7 +13,6 @@ mysql:8.0.32
 phpmyadmin:5.2.1
 redis:6.2
 rabbitmq:3.12.9
-rocketmq:5.1.0
 nginx:1.25.1
 prometheus:2.47.2
 grafana:10.2.0
