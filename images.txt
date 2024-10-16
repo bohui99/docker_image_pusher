@@ -6,7 +6,6 @@ redroid/redroid:11.0.0-latest
 gdy666/lucky
 budtmo/docker-android:emulator_11.0
 rustdesk/rustdesk-server
-rustdesk/rustdesk-server:1.10
 zerotier/ZeroTierOne
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
