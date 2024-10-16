@@ -14,7 +14,5 @@ phpmyadmin:5.2.1
 redis:6.2
 rabbitmq:3.12.9
 nginx:1.25.1
-grafana
-registry:latest
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
