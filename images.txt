@@ -5,8 +5,7 @@ zerotier/zerotier:latest
 python:alpine3.19
 kasmweb/nginx:1.25.3
 portainer/portainer-ce
---platform=linux/arm/v7 portainer/portainer-ce
---platform=linux/arm/v7 portainer/portainer
+--platform=linux/arm/v7 portainer/portainer-ce:alpine-sts
 redroid/redroid:11.0.0-latest
 gdy666/lucky
 budtmo/docker-android:emulator_11.0
