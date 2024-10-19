@@ -1,19 +1,19 @@
-alpine
-zerotier/zerotier:latest
---platform=linux/arm/v7 zerotier/zerotier:latest
-python:alpine3.19
-kasmweb/nginx:1.25.3
-portainer/portainer
---platform=linux/arm/v7 portainer/portainer
-redroid/redroid:11.0.0-latest
-gdy666/lucky
-budtmo/docker-android:emulator_11.0
-rustdesk/rustdesk-server
-mysql:8.0.32
-phpmyadmin:5.2.1
-redis:6.2
-rabbitmq:3.12.9
-nginx:1.25.1
+#alpine
+#zerotier/zerotier:latest
+#--platform=linux/arm/v7 zerotier/zerotier:latest
+#python:alpine3.19
+#kasmweb/nginx:1.25.3
+#portainer/portainer
+#--platform=linux/arm/v7 portainer/portainer
+#redroid/redroid:11.0.0-latest
+#gdy666/lucky
+#budtmo/docker-android:emulator_11.0
+#rustdesk/rustdesk-server
+#mysql:8.0.32
+#phpmyadmin:5.2.1
+#redis:6.2
+#rabbitmq:3.12.9
+#nginx:1.25.1
+#--platform=linux/amd64 redis:7.0.15-alpine3.20
+#--platform=linux/arm/v7 redis:7.0.15-alpine3.20
 keynetworks/ztncui
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
