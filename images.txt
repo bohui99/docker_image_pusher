@@ -1,4 +1,4 @@
-frooodle/s-pdf
+frooodle/s-pdf:latest
 keynetworks/ztncui
 alpine
 zerotier/zerotier:latest
