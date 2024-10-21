@@ -1,3 +1,4 @@
+frooodle/s-pdf
 keynetworks/ztncui
 alpine
 zerotier/zerotier:latest
