@@ -1,3 +1,5 @@
+chishin/wol-go-web
+--platform=linux/arm/v7 chishin/wol-go-web
 chishin/wol-go-web:dev-1.7.70
 --platform=linux/arm/v7 chishin/wol-go-web:dev-1.7.70
 frooodle/s-pdf:latest
