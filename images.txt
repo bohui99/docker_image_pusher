@@ -1,4 +1,4 @@
-emptysuns/scrcpy-web:latest
+abing7k/scrcpy-web
 scavin/ws-scrcpy:latest
 dreamfactorysoftware/df-docker
 jxxghp/moviepilot-v2:latest
