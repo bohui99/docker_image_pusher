@@ -1,3 +1,4 @@
+kerberos/kerberos:latest
 shinobisystems/shinobi:dev
 linzeyi/hivision_idphotos
 budtmo/docker-android:emulator_10.0
