@@ -1,3 +1,4 @@
+siomiz/softethervpn:latest
 easydarwin/easynvr:latest
 kerberos/kerberos:latest
 shinobisystems/shinobi:dev
