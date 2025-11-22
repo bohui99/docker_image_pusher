@@ -1,3 +1,4 @@
+traefik/traefik:2.11
 authelia/authelia:latest
 authelia/authelia:4.39.3
 siomiz/softethervpn:5.02.5185
