@@ -1,3 +1,4 @@
+oldiy/chrome-novnc:latest
 traefik/traefik:v3.6.2
 authelia/authelia:latest
 authelia/authelia:4.39.3
