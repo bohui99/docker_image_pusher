@@ -1,3 +1,4 @@
+jlesage/firefox:latest
 selenium/standalone-chrome
 --platform=linux/arm/v7 zerotier/zerotier:latest
 kasmweb/chromium:1.18.0
