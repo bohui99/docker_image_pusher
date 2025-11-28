@@ -1,7 +1,7 @@
+kasmweb/chrome:1.8.0-edge
 jlesage/firefox:latest
 selenium/standalone-chrome
 --platform=linux/arm/v7 zerotier/zerotier:latest
-kasmweb/chromium:1.18.0
 oldiy/chrome-novnc:latest
 authelia/authelia:latest
 authelia/authelia:4.39.3
