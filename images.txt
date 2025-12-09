@@ -1,3 +1,5 @@
+lejianwen/rustdesk-api:latest
+rustdesk/rustdesk-server:latest
 gitlab/gitlab-ce:latest
 kasmweb/chrome:1.8.0-edge
 jlesage/firefox:latest
@@ -31,7 +33,7 @@ portainer/portainer-ce
 redroid/redroid:11.0.0-latest
 gdy666/lucky
 budtmo/docker-android:emulator_11.0
-rustdesk/rustdesk-server
+
 mysql:8.0.32
 phpmyadmin:5.2.1
 redis:6.2
