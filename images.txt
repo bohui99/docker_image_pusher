@@ -1,4 +1,4 @@
-lejianwen/rustdesk-api:latest
+kingmo888/rustdesk-api-server:latest
 rustdesk/rustdesk-server:latest
 gitlab/gitlab-ce:latest
 kasmweb/chrome:1.8.0-edge
