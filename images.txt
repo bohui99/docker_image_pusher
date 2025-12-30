@@ -1,3 +1,4 @@
+enwaiax/x-ui:latest
 kingmo888/rustdesk-api-server:latest
 rustdesk/rustdesk-server:latest
 gitlab/gitlab-ce:latest
