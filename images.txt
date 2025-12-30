@@ -14,7 +14,6 @@ siomiz/softethervpn:5.02.5185
 kerberos/kerberos:latest
 shinobisystems/shinobi:dev
 linzeyi/hivision_idphotos
-budtmo/docker-android:emulator_10.0
 shmayro/scrcpy-web:latest
 scavin/ws-scrcpy:latest
 dreamfactorysoftware/df-docker
